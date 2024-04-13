@@ -1,2 +1,2 @@
 # G-Boutique
-Lavoro realizzato da Iacopo Cucchi e Mnauele Galeffi
+Lavoro realizzato da Iacopo Cucchi e Manuele Galeffi
